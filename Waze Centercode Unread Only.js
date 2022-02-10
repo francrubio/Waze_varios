@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Waze Centercode Unread Only
+// @name         Waze Centercode Unread Only on Github
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Sets UNREAD ONLY checkbox on each time you enter a subforum
